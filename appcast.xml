@@ -12,6 +12,15 @@
 		<language>zh</language>
 		<!-- items -->
 		<item>
+			<title>1.0.1</title>
+			<pubDate>Sat, 26 Sep 2026 06:21:49 +0000</pubDate>
+			<sparkle:version>1</sparkle:version>
+			<sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+			<sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+			<description><![CDATA[修掉 install 脚本最后一行的报错；主要用来验证自动更新这条路本身。]]></description>
+			<enclosure url="https://github.com/max1874/lumo-releases/releases/download/v1.0.1/Lumo-1.0.1.dmg" length="3911520" type="application/x-apple-diskimage" sparkle:edSignature="mR6VfWOG09zUHu9xEyEvuJVD8E1+sACTuApYzwSI2WJ+sBteTY8uIAsJm6wbHhJiH0owEzukourhs4F9i577CA=="/>
+		</item>
+		<item>
 			<title>1.0.0</title>
 			<pubDate>Sat, 26 Sep 2026 06:15:57 +0000</pubDate>
 			<sparkle:version>1</sparkle:version>
