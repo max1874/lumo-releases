@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	Lumo 的更新源。装好的 Lumo 每天读一次这个文件，有新版本就提示更新。
+	条目由 translator 仓库的 Scripts/publish.sh 追加在下面那行 items 标记之后，
+	最新的在最上面。每个 enclosure 都带 EdDSA 签名，签名对不上 Lumo 会拒绝安装。
+-->
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+	<channel>
+		<title>Lumo</title>
+		<link>https://raw.githubusercontent.com/max1874/lumo-releases/main/appcast.xml</link>
+		<description>Lumo 的版本更新</description>
+		<language>zh</language>
+		<!-- items -->
+	</channel>
+</rss>
