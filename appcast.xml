@@ -11,5 +11,21 @@
 		<description>Lumo 的版本更新</description>
 		<language>zh</language>
 		<!-- items -->
+		<item>
+			<title>1.0.0</title>
+			<pubDate>Sat, 26 Sep 2026 06:15:57 +0000</pubDate>
+			<sparkle:version>1</sparkle:version>
+			<sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+			<sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+			<description><![CDATA[Lumo 的第一个版本。
+
+- 选中文字按快捷键出译文，浮窗跟着选区走；没选中就在同一个浮窗里打字，按回车翻译。
+- 一个快捷键双向互译：原文已经是目标语言就翻成反向目标，默认简体中文 ↔ 英语。
+- 边写边改：连按三下空格，把正在写的那一行改写成通顺的目标语言（默认关闭，在设置里开）。
+- 自带 AI 服务选单：DeepSeek / OpenRouter / OpenAI / Anthropic / Moonshot / 本机 Ollama，用你自己的 API Key，存在系统钥匙串里。
+- System Prompt 就是设置里那个框，写什么就发什么。
+- 需要 macOS 26。首次使用要给一次辅助功能权限，划词才能读到别的应用里选中的文字。]]></description>
+			<enclosure url="https://github.com/max1874/lumo-releases/releases/download/v1.0.0/Lumo-1.0.0.dmg" length="3911436" type="application/x-apple-diskimage" sparkle:edSignature="w5XvDY84ahGcNA3to1cea/P06cPZa/I/aeg1P97mDfIOWJ4TED6sGtFC0CRZ7+ofh4qFNhk5P29O83Z0uIkMBA=="/>
+		</item>
 	</channel>
 </rss>
