@@ -17,7 +17,9 @@
 			<sparkle:version>4</sparkle:version>
 			<sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
 			<sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-			<description><![CDATA[Lumo 1.0.4]]></description>
+			<description><![CDATA[The interface now speaks English and Simplified Chinese, and follows the system language. Language names in the pickers and in the panel header follow it too.
+
+界面现在有英文和简体中文两份，跟随系统语言；选择器和浮窗顶部的语言名也跟着走。]]></description>
 			<enclosure url="https://github.com/max1874/lumo-releases/releases/download/v1.0.4/Lumo-1.0.4.zip" length="2776120" type="application/octet-stream" sparkle:edSignature="S+Bh5ZHJMpmQ61mEpclicjg2IAp69Ntn8l57+q7h3JI0osngFOnT3Qd2j/z59m1IeNdZCWryaQgpGhaQGebEBQ=="/>
 		</item>
 		<item>
