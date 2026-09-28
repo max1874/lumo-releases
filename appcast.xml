@@ -12,6 +12,17 @@
 		<language>zh</language>
 		<!-- items -->
 		<item>
+			<title>1.0.5</title>
+			<pubDate>Mon, 28 Sep 2026 14:30:54 +0000</pubDate>
+			<sparkle:version>5</sparkle:version>
+			<sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+			<sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+			<description><![CDATA[The model list now comes from the service itself. The chevron beside Model opens a searchable list of everything the address answers with — 386 models from OpenRouter — grouped by vendor, with arrow keys and Return. The field is still free text for anything the service does not list.
+
+模型列表现在直接问服务要。Model 旁边的箭头会打开一个可搜索的列表，里面是这个接口地址实际提供的全部模型（OpenRouter 有 386 个），按厂商分组，方向键加回车即可选定。想填服务没列出的模型，输入框照样可以手打。]]></description>
+			<enclosure url="https://github.com/max1874/lumo-releases/releases/download/v1.0.5/Lumo-1.0.5.zip" length="2860469" type="application/octet-stream" sparkle:edSignature="DBte4q0oDLJj0oijlpDk/fw3sL1luc9H3QdYpG3Me6VjGqMgEiW3bCokevwS6F/FN0vRd/O12gTWpc5pPo4mDg=="/>
+		</item>
+		<item>
 			<title>1.0.4</title>
 			<pubDate>Mon, 28 Sep 2026 03:12:06 +0000</pubDate>
 			<sparkle:version>4</sparkle:version>
