@@ -12,6 +12,25 @@
 		<language>zh</language>
 		<!-- items -->
 		<item>
+			<title>1.0.6</title>
+			<pubDate>Tue, 29 Sep 2026 10:09:23 +0000</pubDate>
+			<sparkle:version>6</sparkle:version>
+			<sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+			<sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+			<description><![CDATA[Lumo now has a menu bar of its own while Settings is open. Until now it had none at all, which is why the menus at the top of the screen still belonged to whatever app you came from — and why ⌘V did nothing in the API key field. Both work now.
+
+New in General: **Interface language**. Leave it on "Follow the system", or read Lumo in English or 简体中文 whatever language macOS is in. It takes effect when Lumo starts again, and there is a button for that.
+
+The model list is also kept between launches, so the picker opens with the list already in it.
+
+Lumo 打开设置时现在有自己的菜单栏了。之前它根本没有菜单栏，所以屏幕顶部还显示着你上一个 app 的菜单——也因为这个，API Key 输入框里按 ⌘V 是没反应的。现在两件事都正常了。
+
+「通用」里新增**界面语言**：可以保持「跟随系统」，也可以不管 macOS 是什么语言，单独让 Lumo 用英文或简体中文。重新启动 Lumo 后生效，旁边就有重启按钮。
+
+模型列表现在也会留到下次启动，面板一打开就是现成的。]]></description>
+			<enclosure url="https://github.com/max1874/lumo-releases/releases/download/v1.0.6/Lumo-1.0.6.zip" length="2882918" type="application/octet-stream" sparkle:edSignature="Ut8LjUPuXwn8MOiQULNOlXhsnCzQThw8t0k3/AutuVshgC2CxD+pLj7BCodXeWs8RqLCRE3Wz0LaJ9GK9nEkAQ=="/>
+		</item>
+		<item>
 			<title>1.0.5</title>
 			<pubDate>Mon, 28 Sep 2026 14:30:54 +0000</pubDate>
 			<sparkle:version>5</sparkle:version>
