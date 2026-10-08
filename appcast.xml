@@ -12,6 +12,15 @@
 		<language>zh</language>
 		<!-- items -->
 		<item>
+			<title>1.0.15</title>
+			<pubDate>Thu, 08 Oct 2026 12:07:01 +0000</pubDate>
+			<sparkle:version>15</sparkle:version>
+			<sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
+			<sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+			<description><![CDATA[Lumo 1.0.15]]></description>
+			<enclosure url="https://github.com/max1874/lumo-releases/releases/download/v1.0.15/Lumo-1.0.15.zip" length="2900160" type="application/octet-stream" sparkle:edSignature="FW9Lsp990EXPpkRLSb49wcg8tVZU9mqxZ+e0usirMII+ljsw8XUd7G+FlYe8daz+w3SF6xmINmydgZLgpbrhCA=="/>
+		</item>
+		<item>
 			<title>1.0.14</title>
 			<pubDate>Thu, 08 Oct 2026 06:40:48 +0000</pubDate>
 			<sparkle:version>14</sparkle:version>
