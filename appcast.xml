@@ -12,6 +12,19 @@
 		<language>zh</language>
 		<!-- items -->
 		<item>
+			<title>1.0.19</title>
+			<pubDate>Thu, 15 Oct 2026 12:44:54 +0000</pubDate>
+			<sparkle:version>19</sparkle:version>
+			<sparkle:shortVersionString>1.0.19</sparkle:shortVersionString>
+			<sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+			<description><![CDATA[Translations now persist across app restarts and updates. Repeating the same in-progress translation reuses the request, and closing the panel lets it finish into the cache. Web selections resolve paragraph breaks before starting a translation. A new refresh button requests a fresh translation explicitly.
+
+Panels follow known selection geometry, fall back to the current working screen, and preserve pinned positions. Streaming results keep the edge nearest the selection stable.
+
+Double-tapped modifiers now also recognize generic modifier-release events.]]></description>
+			<enclosure url="https://github.com/max1874/lumo-releases/releases/download/v1.0.19/Lumo-1.0.19.zip" length="2965490" type="application/octet-stream" sparkle:edSignature="VEN9cmAp8pZNRuJ3AdE9828AVqGUU8/KkhJmdygcbU5Rq5WGaRJ9NNCKPcInRIwXtccTR82xHtuUzgRsBtbdAw=="/>
+		</item>
+		<item>
 			<title>1.0.18</title>
 			<pubDate>Thu, 15 Oct 2026 03:42:49 +0000</pubDate>
 			<sparkle:version>18</sparkle:version>
