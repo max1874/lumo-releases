@@ -4,6 +4,10 @@ Translate what you just selected, anywhere on macOS. Select text, press the hotk
 
 **[Download the latest version](https://github.com/max1874/lumo-releases/releases/latest)** — a signed, Apple-notarized .dmg
 
+<a href="https://max1874.com/lumo/"><img src="docs/demo.en.gif" width="600" alt="Click a sentence and press ⌃⌘D; the translation appears next to it"></a>
+
+<sub>A recorded demo from [max1874.com/lumo](https://max1874.com/lumo/), where you can try it yourself.</sub>
+
 [中文](README.zh-CN.md)
 
 After installing you never need to come back here: Lumo checks for updates once a day, and the menu bar has a "检查更新…" item.

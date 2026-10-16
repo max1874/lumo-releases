@@ -6,6 +6,10 @@ macOS 划词翻译，常驻菜单栏。选中文字按一下快捷键就出译�
 
 **[下载最新版](https://github.com/max1874/lumo-releases/releases/latest)**（.dmg，已签名并经 Apple 公证）
 
+<a href="https://max1874.com/lumo/"><img src="docs/demo.zh.gif" width="600" alt="点一句话再按 ⌃⌘D，译文出现在旁边"></a>
+
+<sub>动图录自 [max1874.com/lumo](https://max1874.com/lumo/)，那里可以亲手试。</sub>
+
 装好之后不用再来这里：Lumo 自己每天检查一次更新，也可以在菜单栏里点「检查更新…」。
 
 ## 这个仓库放什么
