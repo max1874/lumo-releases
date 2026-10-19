@@ -12,6 +12,15 @@
 		<language>zh</language>
 		<!-- items -->
 		<item>
+			<title>1.0.21</title>
+			<pubDate>Mon, 19 Oct 2026 02:55:54 +0000</pubDate>
+			<sparkle:version>21</sparkle:version>
+			<sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
+			<sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+			<description><![CDATA[Triple-Space rewriting works in Lark: the editor's invisible anchor after the caret is no longer part of the rewritten line. A selection the app refuses is reported as such, not as a different text field.]]></description>
+			<enclosure url="https://github.com/max1874/lumo-releases/releases/download/v1.0.21/Lumo-1.0.21.zip" length="2976239" type="application/octet-stream" sparkle:edSignature="vEfw3fGSH1efteh9BtZSHoA8jJvRT++jzaDVATGDw7M7jhopwcyXe7pm+pJM4WuXUj+SZHabHAoRRzLMdr0wCg=="/>
+		</item>
+		<item>
 			<title>1.0.20</title>
 			<pubDate>Sun, 18 Oct 2026 04:29:18 +0000</pubDate>
 			<sparkle:version>20</sparkle:version>
